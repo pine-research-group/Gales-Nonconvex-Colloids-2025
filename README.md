@@ -1,1 +1,1 @@
-This repository contains code for performing molecular dynamics simulation on colloidal tetrahedra with non-convex interactions and analyzing the resulting structures.
+This repository contains code for performing molecular dynamics simulation on colloidal tetrahedra with non-convex interactions and analyzing the resulting structures. The output data from each simulation, and the code for running each simulation, can be found at: https://nyu.box.com/s/ukkl4lnbubi35w7nf9s0dbdyj4h4r7is
